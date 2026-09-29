@@ -15,3 +15,9 @@ Do not use Google Drive or litterbox in Buffer. Buffer cannot fetch Drive, and l
 | DBC_IG_POV.jpg | https://i.imgur.com/gW7vpfF.jpeg |
 | DBC_IG_Playbook.jpg | https://i.imgur.com/6jPmPOR.jpeg |
 | DBC_IG_RugWatch.jpg | https://i.imgur.com/7UBK6La.jpeg |
+| DBC_IG_MoonChaser.jpg | https://i.imgur.com/c4YcZYI.jpeg |
+| DBC_IG_FDV.jpg | https://i.imgur.com/RZcy1Fw.jpeg |
+| DBC_IG_Rugproof.jpg | https://i.imgur.com/iUr6l09.jpeg |
+| DBC_IG_Confessions2.jpg | https://i.imgur.com/FMUquZs.jpeg |
+| DBC_TT_MoonChaser.mp4 | https://i.imgur.com/DkDHBVY.mp4 |
+| DBC_TT_Rugproof.mp4 | https://i.imgur.com/tfHjyKK.mp4 |
