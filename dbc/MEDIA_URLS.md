@@ -21,3 +21,13 @@ Do not use Google Drive or litterbox in Buffer. Buffer cannot fetch Drive, and l
 | DBC_IG_Confessions2.jpg | https://i.imgur.com/FMUquZs.jpeg |
 | DBC_TT_MoonChaser.mp4 | https://i.imgur.com/DkDHBVY.mp4 |
 | DBC_TT_Rugproof.mp4 | https://i.imgur.com/tfHjyKK.mp4 |
+| CP_01_consistency.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/01-consistency.jpg |
+| CP_02_cryptography.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/02-cryptography.jpg |
+| CP_03_tests.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/03-tests.jpg |
+| CP_04_runes.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/04-runes.jpg |
+| CP_05_ordinals.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/05-ordinals.jpg |
+| CP_06_one_must_hit.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/06-one-must-hit.jpg |
+| CP_07_secrets.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/07-secrets.jpg |
+| CP_08_read_before_sign.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/08-read-before-sign.jpg |
+| CP_09_two_chains.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/09-two-chains.jpg |
+| CP_10_still_at_desk.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/10-still-at-desk.jpg |
