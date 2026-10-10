@@ -31,3 +31,13 @@ Do not use Google Drive or litterbox in Buffer. Buffer cannot fetch Drive, and l
 | CP_08_read_before_sign.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/08-read-before-sign.jpg |
 | CP_09_two_chains.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/09-two-chains.jpg |
 | CP_10_still_at_desk.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/10-still-at-desk.jpg |
+| CP_11_understand_the_line.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/11-understand-the-line.jpg |
+| CP_12_small_commits.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/12-small-commits.jpg |
+| CP_13_fees.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/13-fees.jpg |
+| CP_14_seed_offline.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/14-seed-offline.jpg |
+| CP_15_read_the_error.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/15-read-the-error.jpg |
+| CP_16_one_working.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/16-one-working.jpg |
+| CP_17_review_your_diff.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/17-review-your-diff.jpg |
+| CP_18_env_not_repo.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/18-env-not-repo.jpg |
+| CP_19_rug_pattern.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/19-rug-pattern.jpg |
+| CP_20_ship_small.jpg | https://raw.githubusercontent.com/BoredElon0x/nitrous0x-media/main/dbc/codepunk/20-ship-small.jpg |
